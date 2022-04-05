@@ -1,3 +1,4 @@
+from collections.abc import Mapping
 import requests
 
 url = 'http://localhost:5000/predict_api'
